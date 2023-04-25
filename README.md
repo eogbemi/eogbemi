@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach Etan ...
-- This repository records all the project works that I did in my PGP-AIML program with UT Austin and Great Learning!
+- Developing apps in support of advocacy
 
 <!---
 eogbemi/eogbemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
